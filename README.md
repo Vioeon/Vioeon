@@ -57,15 +57,15 @@ Here are some ideas to get you started:
 
 
 ### :computer:Project
-- 2021.04~2021.04 | **Angry Bird**  <a href="https://github.com/Vioeon/Angry_Bird" target="_blank"> <img src="https://user-images.githubusercontent.com/31684326/171160366-90d9ed26-cba5-4560-ad92-e622bc64b25f.png" alt="python" width="20" height="20"/> </a> <br>
+- 2021.04~2021.04 | **Angry Bird**    <a href="https://github.com/Vioeon/Angry_Bird" target="_blank"> <img src="https://user-images.githubusercontent.com/31684326/171160366-90d9ed26-cba5-4560-ad92-e622bc64b25f.png" alt="python" width="20" height="20"/> </a> <br>
   - 기획 설계 구현 모든 부분 개발
-- 2021.04~2021.05 | **VR Space Sweeper**  <a href="https://github.com/Vioeon/VR-Space_Sweeper" target="_blank"> <img src="https://user-images.githubusercontent.com/31684326/171160366-90d9ed26-cba5-4560-ad92-e622bc64b25f.png" alt="python" width="20" height="20"/> </a> <br>
+- 2021.04~2021.05 | **VR Space Sweeper**    <a href="https://github.com/Vioeon/VR-Space_Sweeper" target="_blank"> <img src="https://user-images.githubusercontent.com/31684326/171160366-90d9ed26-cba5-4560-ad92-e622bc64b25f.png" alt="python" width="20" height="20"/> </a> <br>
   - 기획 설계 구현 모든 부분 개발
-- 2021.09~2021.12 | **AR TFT LOLChess**  <a href="https://github.com/Vioeon/AR_TFT_LolChess" target="_blank"> <img src="https://user-images.githubusercontent.com/31684326/171160366-90d9ed26-cba5-4560-ad92-e622bc64b25f.png" alt="python" width="20" height="20"/> </a> <br>
+- 2021.09~2021.12 | **AR TFT LOLChess**    <a href="https://github.com/Vioeon/AR_TFT_LolChess" target="_blank"> <img src="https://user-images.githubusercontent.com/31684326/171160366-90d9ed26-cba5-4560-ad92-e622bc64b25f.png" alt="python" width="20" height="20"/> </a> <br>
   - 캐릭터 아이템 전투 이펙트 부분 개발
-- 2022.03~2022.05 | **Electro Adventure (구현 중지)**  <a href="https://github.com/Vioeon/CapstoneDesign" target="_blank"> <img src="https://user-images.githubusercontent.com/31684326/171160366-90d9ed26-cba5-4560-ad92-e622bc64b25f.png" alt="python" width="20" height="20"/> </a> <br>
+- 2022.03~2022.05 | **Electro Adventure (구현 중지)**    <a href="https://github.com/Vioeon/CapstoneDesign" target="_blank"> <img src="https://user-images.githubusercontent.com/31684326/171160366-90d9ed26-cba5-4560-ad92-e622bc64b25f.png" alt="python" width="20" height="20"/> </a> <br>
   - PUN 이용한 멀티 구현 및 맵 제작
-- 2022.05~2022.06 | **King of the UnderWorld (현재 구현중)**  <a href="https://github.com/Vioeon/UnderWorld" target="_blank"> <img src="https://user-images.githubusercontent.com/31684326/171160366-90d9ed26-cba5-4560-ad92-e622bc64b25f.png" alt="python" width="20" height="20"/> </a> <br>
+- 2022.05~2022.06 | **King of the UnderWorld (현재 구현중)**    <a href="https://github.com/Vioeon/UnderWorld" target="_blank"> <img src="https://user-images.githubusercontent.com/31684326/171160366-90d9ed26-cba5-4560-ad92-e622bc64b25f.png" alt="python" width="20" height="20"/> </a> <br>
   - 유니티2d, Spine 이용
 <br><br>
 
