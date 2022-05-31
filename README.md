@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vioeon&show_icons=true&locale=en&layout=compact" alt="Vioeon" /></p>
 <br>
-<p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=Vioeon&show_icons=true&locale=en" alt="Vioeon" /></p>  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Vioeon&show_icons=true&locale=en" alt="Vioeon" /></p>  
 <br>  
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Vioeon&" alt="Vioeon" /></p>  
 <br>  
