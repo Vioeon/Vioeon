@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Vioeon/Vioeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,4 +44,13 @@ Here are some ideas to get you started:
   2022.05.31 은상 <br>
 
 ## :computer:Project
-
+- 2021.04~2021.04 | **Angry Bird** <br>
+  기획 설계 구현 모든 부분 개발
+- 2021.04~2021.05 | **VR Space Sweeper** <br>
+  기획 설계 구현 모든 부분 개발
+- 2021.09~2021.12 | **AR TFT LOLChess** <br>
+  캐릭터 아이템 전투 이펙트 부분 개발
+- 2022.03~2022.05 | **Electro Adventure (구현 중지)** <br>
+  PUN 이용한 멀티 구현 및 맵 제작
+- 2022.05~2022.06 | **King of the UnderWorld (현재 구현중)** <br>
+  유니티2d, Spine 이용
