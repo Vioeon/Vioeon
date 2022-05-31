@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">👋 Hi, I'm SeungEon Lee</h1>
+<h1 align="left"> Hi, I'm SeungEon Lee 👋 </h1>
 
 ### :raised_hands:About Me
 - **이름** : 이승언(SeungEon Lee) <br>
