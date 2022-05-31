@@ -37,22 +37,18 @@ Here are some ideas to get you started:
 - 스케치업 모델링 툴 사용 <br>
 - 아두이노를 이용한 다양한 센서 활용 <br>
 - Linux 환경의 개발 경험 <br>
-
-- unity c# <br>
-- Java, Js, C, C++, HTML <br>
-- Arduino <br>
-- Skech Up <br>
-- GitHub <br>
-- 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>  <img src="https://img.shields.io/badge/C#-239120?style=flat&logo=CSharp&logoColor=white"/>  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/SkechUp-005F9E?style=flat&logo=SketchUp&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
-<img src="https://user-images.githubusercontent.com/31684326/171157986-bd76f9cd-312a-49d2-a695-9925735abe24.png" alt="Unity" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171157986-bd76f9cd-312a-49d2-a695-9925735abe24.png" alt="Unity" width="40" height="40"/>  
 
-<img src="https://user-images.githubusercontent.com/31684326/171158445-9182977c-d299-408e-952f-62592bcdd097.png" alt="python" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171159356-3c48a548-9131-4b5d-bd57-d2214835ab42.png" alt="python" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171158871-be78e730-d8c4-4d3f-9327-1de8e00f0385.png" alt="python" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171158769-a388b0ab-cb8d-4ffa-a6c9-5ef620c99b8e.png" alt="python" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171158817-3626a0e7-5777-441d-99d0-48c267190686.png" alt="python" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171158094-656f56b1-19ae-4525-9942-6edad1b8766a.png" alt="python" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/31684326/171157986-bd76f9cd-312a-49d2-a695-9925735abe24.png" alt="Unity" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171159356-3c48a548-9131-4b5d-bd57-d2214835ab42.png" alt="Unity" width="40" height="40"/>  
+
+<img src="https://user-images.githubusercontent.com/31684326/171158445-9182977c-d299-408e-952f-62592bcdd097.png" alt="python" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171160162-66db9a79-a546-4ec2-bad8-e4594b837542.png" alt="python" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171158871-be78e730-d8c4-4d3f-9327-1de8e00f0385.png" alt="python" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171158769-a388b0ab-cb8d-4ffa-a6c9-5ef620c99b8e.png" alt="python" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171158817-3626a0e7-5777-441d-99d0-48c267190686.png" alt="python" width="40" height="40"/> 
+
+<img src="https://user-images.githubusercontent.com/31684326/171160273-e4025374-4d78-437c-9d2f-944bedd1598e.png" alt="python" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171160481-3927fa27-b40f-4dbb-8782-4031192f4ea7.svg" alt="python" width="40" height="40"/>  <img src="https://user-images.githubusercontent.com/31684326/171160366-90d9ed26-cba5-4560-ad92-e622bc64b25f.png" alt="python" width="40" height="40"/> 
 
 
 
