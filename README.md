@@ -15,5 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="left">👋 Hi, I'm SeungEon Lee</h1>
+<h3 align="left">I'm a growing Game developer from Korea</h3>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+- 📄 Know about my experiences [[Portfolio]]
+
+- 👀 I’m interested in ...<br>
+**Unity 3D<br>
+VR/AR<br>
+Arduino<br>
+Game<br>
+
+- 📫 How to reach me **seungeun9894@gmail.com**
+
