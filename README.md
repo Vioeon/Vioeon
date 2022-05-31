@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 - **Email** : seungeun9894@gmail.com <br>
 - **Github 주소** : https://github.com/Vioeon <br>
 
-<br>
 
 ### :mortar_board:Education
 - **학사** : 한림대학교 콘텐츠IT 전공  2017 - 2023(예정) <br>
   - AI로봇융합 복수전공 <br>
 - **졸업** : 원주고등학교 과학중점반   2014 - 2017 <br>
 
-<br>
 
 ### :four_leaf_clover:전공지식 및 Skill
 - Java, JS, C, C++, C# Python 언어를 사용한 개발 경험 <br>
@@ -57,7 +55,6 @@ Here are some ideas to get you started:
   - 한림대학교 SW중심대학사업단 <br>
   - 2022.05.31 은상 <br>
 
-<br>
 
 ### :computer:Project
 - 2021.04~2021.04 | **Angry Bird** <br>
