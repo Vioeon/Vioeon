@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ### :raised_hands:About Me
 - **이름** : 이승언(SeungEon Lee) <br>
-- **생년월일** : 1998.09.28 <br>
-- **연락처** : 010-9389-3319 <br>
 - **Email** : seungeun9894@gmail.com <br>
 - **Github 주소** : https://github.com/Vioeon <br>
 
