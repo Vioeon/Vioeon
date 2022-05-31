@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 
 <h1 align="left">👋 Hi, I'm SeungEon Lee</h1>
 
-## :raised_hands:About Me
+### :raised_hands:About Me
 - **이름** : 이승언(SeungEon Lee) <br>
 - **생년월일** : 1998.09.28 <br>
 - **연락처** : 010-9389-3319
 - **Email** : seungeun9894@gmail.com
 - **Github 주소** : https://github.com/Vioeon
 
-## :mortar_board:Education
+### :mortar_board:Education
 - **학사** : 한림대학교 콘텐츠IT 전공  2017 - 2023(예정) <br>
              AI로봇융합 복수전공 <br>
 - **졸업** : 원주고등학교 과학중점반   2014 - 2017 <br>
 
-## :four_leaf_clover:Skills
+### :four_leaf_clover:Skills
 - Unity, C#
 - Java, Js, C, C++, HTML
 - Arduino
