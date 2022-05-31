@@ -16,15 +16,33 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">👋 Hi, I'm SeungEon Lee</h1>
-<h3 align="left">I'm a growing Game developer from Korea</h3>
 
-- 📄 Know about my experiences [[Portfolio]]
+## 🧑‍🎓About Me
+- **이름** : 이승언(SeungEon Lee) <br>
+- **생년월일** : 1998.09.28 <br>
+- **연락처** : 010-9389-3319
+- **Email** : seungeun9894@gmail.com
+- **Github 주소** : https://github.com/Vioeon
 
-- 👀 I’m interested in ...<br>
-**Unity 3D<br>
-VR/AR<br>
-Arduino<br>
-Game<br>
+### 🧑‍🎓Education
+- **학사** : 한림대학교 콘텐츠IT 전공  2017 - 2023(예정) <br>
+-            AI로봇융합 복수전공 <br>
+- **졸업** : 원주고등학교 과학중점반   2014 - 2017 <br>
 
-- 📫 How to reach me **seungeun9894@gmail.com**
+### 🧑‍🎓Skills
+- Unity, C#
+- Java, Js, C, C++, HTML
+- Arduino
+- Skech Up
+- GitHub
+
+### 🧑‍🎓Awards
+- **2021 강원 메이커톤 대회** :  <br>
+- 2022.02.17 장려상 <br>
+- (재)강원정보문화진흥원 <br>
+
+- **2022 1학기 캡스톤디자인 경진대회** :  <br>
+- 2022.05.31 은상 <br>
+- 한림대학교 SW중심대학사업단 <br>
+
 
