@@ -17,26 +17,26 @@ Here are some ideas to get you started:
 
 <h1 align="left">👋 Hi, I'm SeungEon Lee</h1>
 
-## 🧑‍🎓About Me
+## :raised_hands:About Me
 - **이름** : 이승언(SeungEon Lee) <br>
 - **생년월일** : 1998.09.28 <br>
 - **연락처** : 010-9389-3319
 - **Email** : seungeun9894@gmail.com
 - **Github 주소** : https://github.com/Vioeon
 
-## 🧑‍🎓Education
+## :mortar_board:Education
 - **학사** : 한림대학교 콘텐츠IT 전공  2017 - 2023(예정) <br>
              AI로봇융합 복수전공 <br>
 - **졸업** : 원주고등학교 과학중점반   2014 - 2017 <br>
 
-## 🧑‍🎓Skills
+## :four_leaf_clover:Skills
 - Unity, C#
 - Java, Js, C, C++, HTML
 - Arduino
 - Skech Up
 - GitHub
 
-## 🧑‍🎓Awards
+## :trophy:Awards
 - **2021 강원 메이커톤 대회** :  <br>
   (재)강원정보문화진흥원 <br>
   2022.02.17 장려상 <br>
@@ -45,5 +45,5 @@ Here are some ideas to get you started:
   한림대학교 SW중심대학사업단 <br>
   2022.05.31 은상 <br>
 
-## 🧑‍🎓Project
+## :computer:Project
 
