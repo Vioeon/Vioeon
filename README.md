@@ -27,14 +27,29 @@ Here are some ideas to get you started:
   - AI로봇융합 복수전공 <br>
 - **졸업** : 원주고등학교 과학중점반   2014 - 2017 <br>
 
-### :four_leaf_clover:Skills
-- Unity, C#
+### :four_leaf_clover:전공지식 및 Skill
+- Java, JS, C, C++, C# Python 언어를 사용한 개발 경험
+- Unity를 이용한 2d/3d 게임 개발
+- Unity 기반의 VR/AR 콘텐츠 제작
+- PlayerPrefs, Json을 사용한 데이터 관리
+- Photon Unity Networking 사용한 개발 경험
+- GitHub 이용한 협업 프로젝트
+- 스케치업 모델링 툴 사용
+- 아두이노를 이용한 다양한 센서 활용
+- Linux 환경의 개발 경험
+
+- unity c#
 - Java, Js, C, C++, HTML
 - Arduino
 - Skech Up
 - GitHub
+ <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C#-239120?style=flat&logo=C Sharp&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
+ <img src="https://img.shields.io/badge/SkechUp-005F9E?style=flat&logo=SketchUp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
-## :trophy:Awards
+### :trophy:Awards
 - **2021 강원 메이커톤 대회** :  <br>
   - (재)강원정보문화진흥원 <br>
   - 2022.02.17 장려상 <br>
@@ -43,7 +58,7 @@ Here are some ideas to get you started:
   - 한림대학교 SW중심대학사업단 <br>
   - 2022.05.31 은상 <br>
 
-## :computer:Project
+### :computer:Project
 - 2021.04~2021.04 | **Angry Bird** <br>
   - 기획 설계 구현 모든 부분 개발
 - 2021.04~2021.05 | **VR Space Sweeper** <br>
