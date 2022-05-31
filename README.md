@@ -43,16 +43,16 @@ Here are some ideas to get you started:
 - Arduino <br>
 - Skech Up <br>
 - GitHub <br>
-
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/> 
-
+- 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>  <img src="https://img.shields.io/badge/C#-239120?style=flat&logo=CSharp&logoColor=white"/>  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/SkechUp-005F9E?style=flat&logo=SketchUp&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
- <br>
- 
+
+<img src="https://user-images.githubusercontent.com/31684326/171157986-bd76f9cd-312a-49d2-a695-9925735abe24.png" alt="python" width="40" height="40"/><img src="https://user-images.githubusercontent.com/31684326/171158094-656f56b1-19ae-4525-9942-6edad1b8766a.png" alt="python" width="40" height="40"/>
+
+
  
 ### :trophy:Awards
 - **2021 강원 메이커톤 대회** :  <br>
