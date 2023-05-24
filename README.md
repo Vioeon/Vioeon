@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### :mortar_board:Education
 - **학사** : 한림대학교 콘텐츠IT 전공  2017 - 2023(예정) <br>
   - AI로봇융합 복수전공 <br>
-- **졸업** : 원주고등학교 과학중점반   2014 - 2017 <br>
+- **졸업** : 원주고등학교 2014 - 2017 <br>
 
 
 ### :four_leaf_clover:전공지식 및 Skill
@@ -55,6 +55,9 @@ Here are some ideas to get you started:
   - 한림대학교 SW중심대학사업단 <br>
   - 2022.05.31 은상 <br>
 
+- **2022 창업동아리 경진대회** :  <br>
+  - 한림대학교 창업지원본부 <br>
+  - 2023.02.15 은상 <br>
 
 ### :computer:Project
 - 2021.04~2021.04 | **Angry Bird**  &nbsp;&nbsp;<a href="https://github.com/Vioeon/Angry_Bird" target="_blank"> <img src="https://user-images.githubusercontent.com/31684326/171160366-90d9ed26-cba5-4560-ad92-e622bc64b25f.png" alt="python" width="20" height="20"/> </a> <br>
